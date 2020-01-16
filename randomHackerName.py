@@ -19,8 +19,9 @@ hacker_Names = ['Neo','Trinity','Cipher',
                 'hunter','Acidus','geohot',
                 'Highrise Joe','hagbard','Lord Digital']
 
-# this gives you your hacker name
+# This gives you your hacker name.
 #print('Your hacker name is: ' + random.choice(hacker_Names) + '.')
 
-# this print give the full list
-#print(hacker_Names)
+# This print gives the full list.
+print(*hacker_Names, sep = "\n")
+
