@@ -4,7 +4,7 @@
 
 import random
 
-#hacker names list to choose from
+# Hacker names to choose from.
 hacker_Names = ['Neo','Trinity','Cipher',
                 'Apoc','Mouse','Morpheus',
                 'Kid','retr0','Hawt Sauce',
@@ -20,7 +20,7 @@ hacker_Names = ['Neo','Trinity','Cipher',
                 'Highrise Joe','hagbard','Lord Digital']
 
 # this gives you your hacker name
-#print('Your hacker name is ' + random.choice(hacker_Names) + '.')
+#print('Your hacker name is: ' + random.choice(hacker_Names) + '.')
 
 # this print give the full list
 #print(hacker_Names)
